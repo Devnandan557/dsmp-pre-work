@@ -1,5 +1,6 @@
 # --------------
-##File path for the file 
+##File path for the file
+<head><meta name="google-site-verification" content="SozD3fvHwUiq4rLyiG1f97en1NWJ0ccCr7o2xhRW_fw" /></head>
 google-site-verification: google9fa914f06da0d5b3.html
 
 <meta name="google-site-verification" content="...">
