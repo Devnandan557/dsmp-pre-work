@@ -1,5 +1,6 @@
 # --------------
 ##File path for the file 
+<meta name="google-site-verification" content="...">
 file_path
 sample_message='This is a sample message'
 
